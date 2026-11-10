@@ -26,6 +26,7 @@ CELL_DEMOS = [
     "assembly/misumi_frame_cell_demo.py",
     "assembly/pcb_loop_demo.py",
     "assembly/shuttle_line_demo.py",
+    "basics/conveyor_transfer_demo.py",
     "basics/demo.py",
     "basics/friction_grasp_demo.py",
     "basics/gripper_pick_demo.py",
